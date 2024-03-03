@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin_td3</string>
+    <string name="calculate_price">Calculate Price</string>
+    <string name="total_price">Total price : %s DH</string>>
+    <string name="add_tva">add TVA ? </string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+</resources>
